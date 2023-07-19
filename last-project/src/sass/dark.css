@@ -1,0 +1,439 @@
+.light .navbar {
+  background: #EEEEEE;
+  color: black;
+}
+.light .navbar a, .light .navbar .nav-link, .light .navbar i {
+  color: black;
+}
+.light .navbar a:hover, .light .navbar .nav-link:hover, .light .navbar i:hover {
+  color: #E30017;
+}
+.light .navbar a :active, .light .navbar .nav-link :active, .light .navbar i :active {
+  color: #000 !important;
+}
+.light .dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  transition: 20s;
+  border-radius: 0;
+  border-color: white;
+}
+.light .account {
+  width: 100%;
+  height: 30px;
+  background-color: #E30017;
+  color: #fff;
+  font-family: roboto, Microsoft JhengHei, sans-serif;
+  cursor: pointer;
+}
+.light .products {
+  font-family: roboto, Microsoft JhengHei, sans-serif;
+  font-weight: bolder;
+}
+.light .recent {
+  background-image: url("https://rog.asus.com/dist/img/rog_bg_pattern.jpg");
+  background-position: center;
+  width: 100%;
+  height: auto;
+}
+.light .recent h2 {
+  color: #000;
+}
+.light .recent .card {
+  overflow: hidden;
+}
+.light .recent .card:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.light .recent .mytext:hover {
+  cursor: pointer;
+}
+.light .bg {
+  background-color: #EEEEEE;
+}
+.light .bg .card {
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+.light .bg .card:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.light .bg .mytext:hover {
+  cursor: pointer;
+}
+.light .art {
+  background-image: url("https://dlcdnwebimgs.asus.com/gain/FDFFE426-0A29-40D5-8E26-C838EB26CA8F");
+  background-position: center;
+  width: 100%;
+  height: 50vh;
+  background-position: 80%;
+  background-repeat: no-repeat;
+}
+.light .footer {
+  background-color: #131313;
+  background-image: url("https://dlcdnwebimgs.asus.com/gain/07B097A3-E9C2-4AFF-9196-3ADE8F5BCEA1");
+  background-position: center;
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #999999;
+}
+.light .footer p, .light .footer i {
+  transition: 0.3s all ease;
+}
+.light .footer p:hover, .light .footer i:hover {
+  color: #C20013;
+  cursor: pointer;
+}
+.light .shop-bg {
+  background-color: #EEEEEE;
+  font-family: sans-serif;
+}
+.light .shop-bg h2 {
+  color: #000;
+}
+.light .shop-bg .card-com {
+  transition: 0.3s all ease;
+  border: 1px solid #EEEEEE;
+  padding: 20px;
+}
+.light .shop-bg .card-com:hover {
+  background-color: #CCCCCC;
+  cursor: pointer;
+}
+.light .shop-bg .card-com:hover .card-com {
+  background-color: #262626;
+  cursor: pointer;
+}
+.light .shop-bg .card-com {
+  background-color: #fff;
+}
+.light .shop-bg .card-com h5 {
+  color: #000;
+}
+.light .shop-bg .card-com p {
+  color: #000;
+}
+.light .detail {
+  background-color: #EEEEEE;
+  color: #000;
+}
+.light .detail h2 {
+  color: #000;
+}
+.light .detail .mybtn1 {
+  background-color: #000;
+  border: none;
+  color: #fff;
+}
+.light .bg-gif {
+  background-color: #EEEEEE;
+}
+.light .addtocard {
+  background-color: #EEEEEE;
+}
+.light .addtocard .cart-button {
+  position: relative;
+}
+.light .addtocard .cart-button p {
+  transition: 0.3s all ease;
+  display: none;
+  position: absolute;
+  color: #000;
+}
+.light .addtocard .cart-button:hover p {
+  transition: 0.3s all ease;
+  display: block;
+  top: 10px;
+}
+.light .addtocard .card {
+  transition: 0.5s all ease;
+  background-color: #EEEEEE;
+  color: #000;
+  height: auto;
+  padding: 20px;
+}
+.light .addtocard .card:hover {
+  background-color: #CCCCCC;
+  cursor: pointer;
+}
+.light .addtocard h4 {
+  color: #000;
+}
+.light .not-found {
+  background-color: #000;
+}
+.light .login {
+  background-color: #EEEEEE;
+  width: 50%;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.light .login .mybtn {
+  width: 100%;
+  background-color: #E30017;
+  color: #000;
+  border-radius: 0px;
+}
+.light .login .mybtn:hover {
+  background-color: #C20013;
+}
+.light .about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: auto;
+}
+.light .about .photoOne {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: -1;
+}
+.light .about .photoTwo {
+  position: relative;
+  width: 30%;
+  top: 100px;
+  height: auto;
+}
+.light .about .photoThird {
+  position: relative;
+  width: 100%;
+}
+.light .about .text-white {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+.light .about-second {
+  background-image: url("https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s2_bg.webp");
+  background-repeat: repeat;
+  height: auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.light .about-second iframe {
+  border: 3px solid #42A5D3;
+}
+.light .about-second .photos {
+  overflow: hidden;
+}
+.light .about-second .photos .common {
+  position: relative;
+}
+.light .about-second .photos .common img {
+  width: 100%;
+  transition: 0.3s all ease;
+}
+.light .about-second .photos .common img:hover {
+  cursor: pointer;
+  filter: brightness(160%);
+  transform: scale(1.04);
+}
+.light .about-second .photos .common .text {
+  position: absolute;
+  bottom: 10px;
+  right: 25px;
+  color: #fff;
+  z-index: 1;
+  text-align: center;
+}
+.light .about-third {
+  background-image: url("https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s4_bg.webp");
+  width: 100%;
+  height: 100vh;
+}
+.light .about-third h2 {
+  color: #fff;
+}
+.light .about-third h2 span {
+  color: #33D1FF;
+}
+.light .about-third .line {
+  height: 3px;
+  background-color: #33D1FF;
+  width: 100%;
+}
+.light .about-third p {
+  color: #fff;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.light .upgrade {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.light .upgrade img {
+  background-attachment: fixed;
+  height: auto;
+}
+.light .upgrade .text {
+  position: absolute;
+  text-align: start;
+  width: 50%;
+  height: auto;
+}
+.light .upgrade .text h2 {
+  color: #fff;
+}
+.light .upgrade .text h2 span {
+  color: #33D1FF;
+}
+.light .upgrade .text p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+  height: auto;
+}
+.light .last {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+.light .last img {
+  background-attachment: fixed;
+  height: auto;
+}
+.light .last .text {
+  position: absolute;
+  text-align: center;
+  width: 60%;
+  height: auto;
+}
+.light .last .text h2 {
+  color: #fff;
+  font-size: 42px;
+  font-weight: bolder;
+}
+.light .last .text h2 span {
+  color: #33D1FF;
+}
+.light .last .text p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 16px;
+}
+.light .wishList {
+  background-color: #EEEEEE;
+}
+.light .wishList .card {
+  background-color: #EEEEEE;
+  transition: 0.3s all ease;
+}
+.light .wishList .card p, .light .wishList .card h5 {
+  color: #000;
+}
+.light .wishList .card .mybox {
+  background-color: #EEEEEE;
+  border: none;
+}
+.light .wishList .card .mybox i {
+  color: #000;
+}
+.light .wishList .card:hover {
+  background-color: #CCCCCC;
+  cursor: pointer;
+}
+.light .modal-content {
+  background-color: #202020;
+  color: #fff;
+  border-radius: 0px;
+}
+.light .modal-content ol li a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s all ease;
+}
+.light .modal-content ol li a:hover {
+  color: #E30017;
+}
+.light .modal-content ol li:hover {
+  background-color: #292929;
+}
+.light .mydrop {
+  background-color: #CCCCCC;
+}
+.light .mydrop li {
+  padding: 5px;
+  color: #000;
+}
+.light .mydrop li:hover {
+  background-color: #EEEEEE;
+  cursor: pointer;
+}
+.light .support {
+  background-image: url("https://rog.asus.com/support/images/imageDist/kv01.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh;
+}
+.light .support .text {
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 60vh;
+  font-weight: bolder;
+}
+.light .support .text .input {
+  width: 40%;
+}
+.light .support .text .input input {
+  background-color: #292929;
+  border: none;
+  height: 60px;
+}
+.light .support .text button {
+  border: none;
+  background-color: #292929;
+}
+.light .select .card-body .card-title {
+  transition: 0.3s all ease;
+  color: #000;
+}
+.light .select .card-body .card-title:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #E30017;
+}
+.light .contact {
+  background-color: #2C2C2C;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.light .contact h2, .light .contact p {
+  color: #fff;
+}
+.light .contact h2:hover, .light .contact p:hover {
+  color: #E30017;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.light .contact .text {
+  border-right: 1px solid #fff;
+}
+.light .mybutton {
+  transform: translateY(-35px);
+}/*# sourceMappingURL=dark.css.map */

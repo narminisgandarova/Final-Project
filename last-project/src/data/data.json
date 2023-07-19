@@ -1,0 +1,228 @@
+[
+{
+    "id":1,
+    "title":"Laptops",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/868C3307-DD02-4624-8BA7-31B62EE4A38F/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101568850585206825/1674703342556_2.webp",
+    "price":"1200",
+    "desc":"NVIDIA® GeForce RTX™ 4090 Laptop GPU Windows 11 Pro  13th Gen Intel® Core™ i9  Up to 16 inch , Up to 32GB DDR5-4800 SO-DIMM x 2  Up to 2TB + 2TB M.2 NVMe™ PCIe® 4.0 Performance SSD (RAID 0)",
+    "desc1":"At ROG, we know that no two gamers are exactly alike. With this in mind, we've crafted distinct gaming laptop lineups to better reflect the varied tastes and priorities of all gamers. Across our four families of gaming laptops, you’ll find ultraportable gaming machines that use innovative cooling technologies to give you outsized gaming performance, muscular high-performance models that harness the most powerful components on the market, and value-oriented laptops that set you up with the essentials without breaking the bank. You'll find displays with industry-leading refresh rates for competitive gamers alongside high-resolution HDR screens that immerse you in single-player experiences like never before. And all of our 2023 gaming laptops include liquid metal and a MUX switch ensuring peak performance in any scenario. No matter where or what you play, ROG has a machine for you."
+},
+{
+    "id":2,
+    "title":"Motherboards",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/B9B3F542-45F3-4C59-9BC1-25B8A1B7CCB1/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101575635660439673/1663990966785.webp",
+    "price":"1600",
+    "desc":"AMD X670 MATX motherboard with 16+2 power stages, DDR5, Three M.2, USB 3.2 Gen 2x2 front-panel connector with Quick Charge 4+ support, Dual USB4® ports., PCIe® 5.0, Onboard Wi-Fi 6E and Aura Sync RGB lighting",
+    "desc1":"When we first launched our last-gen Z690 family, DDR5 RAM had only recently hit the market. Many builders looked for assurance that their new memory would work as advertised in their new motherboards—and we went above and beyond to make that happen. We collaborated closely with a wide range of industry partners to offer ASUS Enhanced Memory Profile (AEMP), which ensures better and wider compatibility with your favorite brands of RAM."
+},
+{
+    "id":3,
+    "title":"Graphic Cards",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/01480520-08BA-439E-A626-2E3D6F0D9908/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101576315628437534/1622545686799.webp",
+    "price":"1800",
+    "desc":"ROG Strix GeForce RTX™ 4070 Ti 12GB GDDR6X OC Edition with DLSS 3 and chart-topping thermal performance.",
+    "desc1":"When NVIDIA's Ampere GPUs first stormed onto the scene, the GeForce RTX 3090 created an entirely new category of performance for the highest-resolution, highest-refresh-rate graphics and most demanding GPU compute tasks on the market. Now, the GeForce RTX 3080 Ti brings much of the power of that revolutionary graphics card to a wider audience. The RTX 3080 Ti's massive complement of CUDA, RT, and Tensor cores teams up with 12GB of GDDR6X memory to create a potent package that's tailored for gamers first. And in the hotly contested midrange of the market, the RTX 3070 Ti brings more CUDA, RT, and Tensor cores to bear for mainstream systems."
+},
+{
+    "id":4,
+    "title":"Monitors",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/5DBD796D-6613-4949-8848-BCC0D9D81D83/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101577095097897061/1649815256938.webp",
+    "price":"1000",
+    "desc":"ROG Strix XG49WCR Super Ultra-wide Gaming Monitor — 49”, Double QHD 32:9 (5120 x 1440), Curved, 165Hz OC (above 144Hz), ELMB Sync, DisplayHDR 400, 90% DCI-P3, DisplayPort 1.4, USB Type-C, Smart KVM, DisplayWidget",
+    "desc1":"Your PC's monitor is a portal to another world, the window to every game you play. It's easy to get caught up in the specs of your PC and the power of your graphics card, but your display is just as important in determining the final image that reaches your eyeballs—so it's important to set it up properly. Here are all the settings you should tweak when you unbox your new gaming display."
+},
+{
+    "id":5,
+    "title":"Phones",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/A8895516-3C00-4DA2-97CA-04F258098672/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101577753054150686/1681381311690_2.webp",
+    "price":"2200",
+    "desc":"Qualcomm Snapdragon 8 Gen 2 LPDDR5X 16GB",
+    "desc1":"As smartphones have become more commonplace, true innovation has become more and more rare. But at ROG, we aren’t content to rest on our laurels — which is why we consistently push boundaries with the legendary ROG Phone line of high performance gaming phones. This year, we have two incredible models ready to power your marathon mobile gaming sessions: the ROG Phone 7 and the ROG Phone 7 Ultimate. Select your loadout — it’s time to get moving."
+},
+{
+    "id":6,
+    "title":"Cooling",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/F69CD34B-7709-41BF-BEEC-FD151700735A/w240/h175",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101586249921339457/1681255098963_1.webp",
+    "price":"6200",
+    "desc": "ROG Ryujin III 360 ARGB all-in-one liquid CPU cooler with 3.5\" LCD, Asetek 8th gen pump,pump embedded fan and 3x ROG 120mm radiator magnetic daisy-chainable ARGB fans",
+    "desc1":"The ROG Strix GeForce RTX 4070 offers the same incredible engineering as the GeForce RTX 4070 Ti at a more affordable price. At 3.12 slots thick and 338mm long, this card provides plenty of surface area on its MaxContact heatsink for airflow, while retaining the new cyberpunk design and ultra-rigid structure of its larger siblings. A 16-pin power connector ensures compatibility with the latest 12VHPWR power supply standard, with an adapter included to ensure compatibility with other power supplies. It's also rocking three of our new 11-blade Axial-tech fans, which can push 31% more air volume and 56.3% more static pressure than its predecessors on the ROG Strix GeForce RTX 3080. A massive vented backplate ensures superior airflow, and 0dB technology keeps your card completely silent under lighter workloads. "
+},
+{
+    "id":7,
+    "title":"Desktops",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1101586778097455124/158708354417.webp",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/E32576F3-2297-4331-976D-5BEFE2FB9927/v1/images/large/1x/G22_KV_11.webp",
+    "price":"200",
+    "desc":"GeForce RTX 3090, 16GB, 1x PCIe® 3.0 x 14x M.2 connector for storage, 1TB SSD + 2TB HDD1TB and up 13th Gen Intel® Core™ i9 Windows 11 Home",
+    "desc1":"The ROG Strix GA35 gaming desktop was designed to deliver tournament-level gaming performance, and today, we’re diving deep into the data that proves it. Competing at the highest caliber in esports requires high frame rates and smooth graphics at every millisecond. The GA35 delivers with up to a Ryzen 9 3950X CPU packed with 16 cores and 32 threads and a powerful NVIDIA GeForce RTX 2080 Ti graphics card, offering blazing speed for multiplayer gaming, GPU-accelerated work, and more. Premium features like high-performance 3200MHz DDR4 RAM upgradeable to 64GB ensures that you can work with large datasets and multitask effectively without fear of slowdowns."
+},
+{
+    "id":8,
+    "title":"Power Supply Units",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/DD0607BB-A52B-4947-81D4-6E90FFE609C1/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/BE4DB3B2-81AC-48E4-B601-D8E095B2678C/v1/img/pic_aluminum_case.png",
+    "price":"100",
+    "desc":"ROG Thor 850W Platinum II is the quietest PSU in its class.",
+    "desc1":"Power supplies are at the heart of all gaming machines, built to provide your system with clean and stable power for years and years. As we continue to look to the future of gaming PSU design, ROG is proud to announce that all Loki, Strix Gold Aura Edition, and TUF Gaming Gold power supplies will natively support the ATX 3.0 standard. That means that every PSU will come with a native 16-pin to 16-pin 12VHPWR cable to pair with current and upcoming graphics cards. For owners of select current models, we are also offering a free native 2x8-pin to 16-pin 12VHPWR cable to keep your build looking as sleek as possible and fully compatible with the graphics cards of tomorrow. "
+},
+{
+    "id":9,
+    "title":"External Graphic Docks",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/976CF93D-8371-4C36-B44C-88920ED5FA9D/w240/h175",
+    "photo1":"https://dlcdnimgs.asus.com/websites/global/products/bIlj3BPrEg6MbYDv/images/themed_pic.jpg",
+    "price":"1200",
+    "desc":"ROG XG Station 2 Thunderbolt™ 3 external graphics dock for upgraded gaming performance",
+    "desc1":"Ultimate Graphics Power, Unleashed.In 2007, ASUS introduced XG Station, an external graphics solution that let laptops achieve cutting-edge gaming performance by tapping into potent desktop graphics cards. Continuing this trend of innovation, the all-new ROG XG Station 2 is a plug-and-play external graphics card dock that turns a Thunderbolt™ 3-enabled notebook or 2-in-1 PC into a VR-ready gaming powerhouse."
+},
+{
+    "id":10,
+    "title":"Networking",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/8E7A4860-965C-424A-AC63-E228E0D0B391/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/4CABAB78-85D0-49F0-B020-DD54FB053768/v1/img/bg_performance_01.png",
+    "price":"600",
+    "desc":"GT-BE98 quad-band WiFi 7 (802.11be) gaming router, support new 320MHz bandwidth & 4096-QAM, Multi-link operation (MLO), Puncturing, three 10G ports, VPN Fusion, Triple-level game acceleration, Mobile game mode, Quad Level Security and AiMesh support, RangeBoost Plus, AURA RGB",
+    "desc1":"The latest Broadcom chipset in GT-AX6000 includes exclusive upgraded features, including TX Shaper to extend overall coverage and TDCS to improve performance on the 80 MHz channels with WiFi 6 devices. In addition, with optimized antenna design and the Broadcom Air-IQ interference-detection technology, GT-AX6000 provides a cleaner WiFi environment, with DFS to ensure optimal channel selection."
+},
+{
+    "id":11,
+    "title":"Keyboards",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/FE102E9F-C72D-407F-A49B-2AB1006A0669/w240/h175",
+    "photo1":"https://dlcdnimgs.asus.com/websites/global/products/RAG8S2RS5ldY04Eg/img/bg/bg-kv.jpg",
+    "price":"900",
+    "desc":"ROG Falchion Ace 65% compact gaming keyboard with pre-lubed ROG NX mechanical switches with ROG switch stabilizer, PBT doubleshot keycaps, sound-dampening foam, interactive touch panel, dual Type-C ports, three keyboard tilt angles, and cover case",
+    "desc1":"Step up your game with ROG Strix Scope Deluxe, the only mechanical gaming keyboard with an ergonomic wrist rest and Xccurate Design – an extra-wide Ctrl key for FPS precision. Enjoy colorful RGB Aura Sync backlighting, hit the Quick-Toggle Switch for work or play, and push the Stealth key for instant privacy. The keyboard is even finished with an aluminum faceplate for everyday resilience with a touch of style. Power to victory, with the power of ROG Strix Scope Deluxe."
+},
+{
+    "id":12,
+    "title":"Mice & Mouse Pads",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/F919198E-4F2B-4A8A-969A-E6E4757674AC/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/664F59B0-9DD4-4B44-B2F3-C03672BFC22C/V1/img/main/buttons-focus.jpg",
+    "price":"800",
+    "desc":"The ROG Keris Wireless AimPoint lightweight 75-gram wireless RGB gaming mouse features a 36,000 dpi ROG AimPoint optical sensor, tri-mode connectivity, ROG SpeedNova wireless technology, swappable mouse switches, ROG Micro Switches, PBT buttons, ROG Paracord, 100% PTFE mouse feet, five programmable buttons, ROG mouse grip tape.",
+    "desc1":"The 12 programmable buttons on ROG Spatha X put a myriad of commands in the palm of your hand, with six side buttons arranged to resemble the iconic ROG eye. The placement of each button has been carefully considered so they’re within reach, and all have been designed to provide a tactile click feel for intuitive, responsive control."
+},
+{
+    "id":13,
+    "title":"Headsets & Audio",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/070A915A-ED63-4C9E-B837-F6F1766E2863/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/699D035A-2D53-4B1D-92B9-43C43BE2E34A/websites/global/products/mpsmskdiplubmrzw/img/delta/armourycrate-bg.jpg",
+    "price":"1200",
+    "desc":"RGB gaming headset with high resolution ESS 9280 Quad DAC™, deep bass and immersive virtual 7.1 surround sound, AI Beamforming Microphones with AI Noise Cancelation, Game Chat volume control, compatible with PCs, PlayStation® 5, Nintendo Switch™ and Xbox",
+    "desc1":"The ASUS AI noise-canceling microphone (AI Mic) has a dedicated processor that’s designed to reduce over 500-million types of background noise while preserving vocal harmonics for crystal-clear in-game voice communication. Common background noises such as chatter, keyboard clatter and mouse clicks are reduced by up to 95%."
+},
+{
+    "id":14,
+    "title":"Cases",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/30D1F34B-0C37-4D9D-92E4-487372FD254F/w240/h175",
+    "photo1":"https://dlcdnimgs.asus.com/websites/global/products/ay9dtg9lsohju5jc/img/00-kv.jpg",
+    "price":"1300",
+    "desc":"ROG Hyperion GR701 E-ATX computer case, 420 mm dual radiator support, four 140 mm fans, metal GPU holder, component storage, ARGB fan hub, 60W fast charging.",
+    "desc1":"ROG Z11 is a premium Mini-ITX/DTX case with a sleek and stylish look that rises above the competition by empowering users to showcase compact builds without compromise. Each feature has been designed conscientiously with the user in mind to maximize utility, flexibility and connectivity. The patented 11° tilt design provides optimized airflow and heat dissipation to create an innovative solution that maximizes thermal performance with demanding hardware—such as an ATX power supply or a 3-slot graphics card without a riser cable. For fans of water cooling, Z11 offers ample space and the option of a custom liquid cooling loop. Adding style to substance, internal build components are beautifully illuminated by Aura Sync lighting that can be seen through the front and right-side 4 mm gray tempered glass panels."
+},
+{
+    "id":16,
+    "title":"Streaming Kits",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/85A00D94-1EFE-424F-9C02-CE0EDBB646D1/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/4FAB01ED-4631-4270-B0FF-8DEF38E8BD41/V1/img/stream-medium.jpg",
+    "price":"1200",
+    "desc":"Reprogram_your_dress_code",
+    "desc1":"Serious streamers demand hyperfast frame rates for the smoothest video – and ROG Eye S delivers flawless visuals with 1080p resolution at 60 fps. This is double the frame rate of conventional cameras, empowering the capture of every detail and nuanced expression without lag or distortion."
+},
+{
+    "id":17,
+    "title":"Controllers",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/D8D19FB9-2485-478F-9E58-4344265E0E69/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/861F940F-9C0A-420B-897B-C515713E67DB/v1/img/bg-audio.jpg",
+    "price":"900",
+    "desc":"The ROG Raikiri Pro PC Controller features a built-in OLED display, tri-mode connectivity, four rear buttons, selectable step triggers, an ESS DAC, plus adjustable joystick sensitivity and response curves. The ROG Raikiri Pro is ideal for PC gaming and next-gen Xbox consoles.",
+    "desc1":"Use the Armoury Crate app to tailor controls to suit your play style or any game. A myriad of customization options are possible, allowing you to remap buttons, adjust OLED display settings, select controller profile, and set up low-battery alerts for wireless mode. You can also tweak vibration strength and trigger dead zones, and adjust joystick response curves."
+},
+{
+    "id":18,
+    "title":"Storage",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/09D0ECE7-D85B-49F2-8432-8938293A39BB/w240/h175",
+    "photo1":"https://dlcdnwebimgs.asus.com/files/media/F917652C-9ECA-44FB-8101-0C5CED34A314/V1/img/components.jpg",
+    "price":"1100",
+    "desc":"ROG Strix Arion EVA Edition M.2 NVMe SSD Enclosure—USB3.2 Gen 2x1 Type-C (10 Gbps), Dual USB-C to C and USB-C to A Cables, Screwdriver-Free, Thermal Pads Included, Fits PCIe 2280/2260/2242/2230 M key/B+M Key",
+    "desc1":"The ROG Strix SQ7 internal M.2 PCIe® Gen 4 x4 NVMe® SSD redefines speed with DRAM buffering and a large SLC cache for up to 7000 MB/s data transfers. Built for superior security and accelerated gaming, the Strix SQ7 offers comprehensive hardware encryption and software solutions as well as extensive compatibility with both PCs and PlayStation™ 5. Level up your gaming experiences with faster loading times."
+},
+{
+    "id":19,
+    "title":"Power & Protection Gadgets",
+    "photo":"https://dlcdnwebimgs.asus.com/gain/5AC10F2B-B36C-40D7-8950-78EE7F4E298E/w240/h175",
+    "photo1":"https://mediawebimg.asus.com/gain/7BE64A79-48DA-40FC-A6D8-3DA2141833DF",
+    "price":"500",
+    "desc":"Tough and hygienic protection",
+    "desc1":"Products certified by the Federal Communications Commission and Industry Canada will be distributed in the United States and Canada. Please visit the ASUS USA and ASUS Canada websites for information about locally available products."
+},
+{
+    "id":20,
+    "title":"Gaming Handhelds",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100837745515040858/1681256502303_2.webp",
+    "photo1":"https://dlcdnwebimgs.asus.com/gain/5059C4C0-505F-4A97-B97A-1241A83D6F18",
+    "price":"700",
+    "desc":"Coming Soon",
+    "desc1":""
+},
+{
+    "id":21,
+    "title":"THE ZEPHYRUS M16 BLENDS OUTSTANDING HDR GAMING PERFORMANCE WITH UNDENIABLE LUXURY",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100837745892536411/1681255098963.webp",
+    "price":"200",
+    "desc":"The new ROG Zephyrus M16 is the result of that dream — and its Nebula HDR display is markedly better looking than the home theater I spent years putting together. With its ultra-premium chassis, thin-and-light gaming laptop design, and top-tier hardware inside, it’s like bringing a high-end home theater gaming setup with you wherever you go. "
+},
+{
+    "id":22,
+    "title":"ROG GOES ALL-IN ON ATX 3.0: GET YOUR FREE 16-PIN CABLE TODAY",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100837746299371590/1681381311690.webp",
+    "price":"1200",
+    "desc":"Power supplies are at the heart of all gaming machines, built to provide your system with clean and stable power for years and years. As we continue to look to the future of gaming PSU design, ROG is proud to announce that all Loki, Strix Gold Aura Edition, and TUF Gaming Gold power supplies will natively support the ATX 3.0 standard. "
+},
+{
+    "id":23,
+    "title":"THE ROG PHONE 7 AND ROG PHONE 7 ULTIMATE USHER IN A NEW ERA OF MOBILE GAMING",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100837746655891547/1681452777918.webp",
+    "price":"900",
+    "desc":"As smartphones have become more commonplace, true innovation has become more and more rare. But at ROG, we aren’t content to rest on our laurels — which is why we consistently push boundaries with the legendary ROG Phone line of high performance gaming phones. This year, we have two incredible models ready to power your marathon mobile gaming sessions: the ROG Phone 7 and the ROG Phone 7 Ultimate. Select your loadout — it’s time to get moving. "
+},
+{
+    "id":24,
+    "title":"HDR BRINGS NEW LIFE TO PC GAMING",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100836537861668985/1679979198633.webp",
+    "price":"200",
+    "desc":"In November of 2022, NVIDIA released the new GeForce RTX 40 Series graphics cards for the first time. With incredible performance and next-gen features like DLSS 3 frame generation, ROG and TUF Gaming took the world by storm with our GeForce RTX 4090, 4080 and 4070 Ti cards. We are now proud to announce four more additions to the family: the ROG Strix GeForce RTX 4070, the TUF Gaming GeForce RTX 4070, and both the ASUS Dual and Dual White GeForce RTX 4070. "
+},
+{
+    "id":25,
+    "title":"WHY THE ROG PHONE 6 IS PERFECT FOR INDIE GAMES ON THE GO",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100836537861668985/1679979198633.webp",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101609747372843068/1681341103985.webp",
+    "price":"200",
+    "desc":"The ROG Phone 6 is one of our proudest achievements, combining the high-spec world of video games with the portability of a mobile phone. Inside its sleek casing, you'll find a vast suite of features designed to give you the best handheld gaming experience possible. The future of mobile gaming is now, and we're here to show you how to get the most out of your new phone. ",
+    "desc1":"From a dazzling HD display to exclusive tactile AirTrigger controls, the ROG Phone 6 stands tall above any other gaming mobile on the market, allowing you to experience games as they were made to be played. It's high-capacity battery and landscape charging port allow for comfort and flexibility, while state-of-the-art audio visual technology keeps you immersed on –the go.   "
+},
+{
+    "id":26,
+    "title":"LANDSCAPE GAMES MADE BETTER WITH THE ROG PHONE 6",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100858865240789012/1682372436629.webp",
+    "photo1":"https://cdn.discordapp.com/attachments/1064953230091624448/1101610100222869515/1680149875565.webp",
+    "price":"1200",
+    "desc":"That’s where the side charging port on the ROG Phone 6 really comes in handy. We’ve partnered with Pocket Tactics, the world’s biggest mobile gaming website, to bring you a glimpse of the best games to play in landscape mode on the ROG Phone 6. ",
+    "desc1":"Originally a hit on PC and console, this speedy and chaotic roguevania has been seamlessly ported over to mobile devices, leaning into the pint-sized platform's unique quirks. Shake off your chains as you awake in an ever-shifting castle, full of sinister horrors and your fellow failed experiments. Try to break free, but beware the sting of permadeath.  "
+},
+{
+    "id":27,
+    "title":"THE BEST RHYTHM GAMES TO GROOVE ON YOUR ROG PHONE 6",
+    "photo":"https://cdn.discordapp.com/attachments/1064953230091624448/1100862373537005608/1677806323570.png",
+    "photo1":"https://i.ytimg.com/vi_webp/3GAwGbubg28/maxresdefault.webp",
+    "price":"600",
+    "desc":"When you want high-end, low latency audio for your favorite rhythm games on mobile, you need a ROG Phone 6. We’ve partnered with Pocket Tactics, the world’s biggest mobile gaming website, to pick out some of the grooviest games that you can boogie down to on your ROG Phone 6 right now — read on for some chart-topping recommendations.",
+    "desc1":" Crypt of the NecroDancer is full of certifiable bangers, and you'll learn to love all of them as you dig your way through its many devious dungeons. To be successful, you'll have to move and attack in step with the music – lose the rhythm and you could end up losing your life."
+}
+]

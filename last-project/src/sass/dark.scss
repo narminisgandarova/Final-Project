@@ -1,0 +1,505 @@
+.light{
+    .navbar{
+        background: #EEEEEE;
+        color: black;
+        a,.nav-link,i{
+            color: black;
+            &:hover{
+              color: #E30017;
+            }
+            :active{
+                color: #000 !important;
+            }
+        }
+    }
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+        transition: 20s;
+        border-radius: 0;
+        border-color: white;
+      }
+    .account{
+        width: 100%;
+        height: 30px;
+        background-color: #E30017;
+        color: #fff;
+        font-family: roboto,Microsoft JhengHei,sans-serif;
+        cursor: pointer;
+    }
+    .products{
+        font-family: roboto,Microsoft JhengHei,sans-serif;
+        font-weight: bolder;
+    }
+    
+    //recent
+    .recent{
+      background-image: url('https://rog.asus.com/dist/img/rog_bg_pattern.jpg');
+      background-position: center;
+      width: 100%;
+      height: auto;
+      h2{
+        color: #000;
+      }
+      .card{
+        overflow: hidden;
+       
+        &:hover{
+            img{
+                transform: scale(1.1);
+                transition: all .3s ease;
+                cursor: pointer;
+            }
+        }
+      }
+      .mytext{
+        &:hover{
+          cursor: pointer;
+        }
+      }
+    
+    }
+    //action
+    .bg{
+      background-color: #EEEEEE;
+      .card{
+        overflow: hidden;
+        transition: all .3s ease;
+        &:hover{
+            img{
+                transform: scale(1.1);
+                transition: all .3s ease;
+                cursor: pointer;
+            }
+        }
+      }
+      .mytext{
+        &:hover{
+          cursor: pointer;
+        }
+      }
+      }
+    
+    //art
+    .art{
+      background-image: url('https://dlcdnwebimgs.asus.com/gain/FDFFE426-0A29-40D5-8E26-C838EB26CA8F');
+      background-position: center;
+      width: 100%;
+      height: 50vh;
+      background-position: 80%;
+      background-repeat: no-repeat;
+    }
+    //footer
+    .footer{
+      background-color: #131313;
+      background-image: url('https://dlcdnwebimgs.asus.com/gain/07B097A3-E9C2-4AFF-9196-3ADE8F5BCEA1');
+      background-position: center;
+      width: 100%;
+      height: 70vh;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: #999999;
+      p,i{
+        transition: .3s all ease;
+        &:hover{
+          color: #C20013;
+          cursor: pointer;
+          
+        }
+      }
+    
+    }
+    //shop
+    .shop-bg{
+      background-color: #EEEEEE;
+      font-family:sans-serif;
+      h2{
+        color: #000;
+      }
+      .card-com{
+        transition: .3s all ease;
+       // border-right: 1px solid #000;
+      // border: none;
+       border: 1px solid #EEEEEE;
+        padding: 20px;
+        &:hover{
+          background-color: #CCCCCC;
+          cursor: pointer;
+          .card-com{
+            background-color: #262626;
+            cursor: pointer;
+          }
+        }
+      }
+      .card-com{
+        background-color: #fff;
+        h5{
+          color: #000;
+        }
+        p{
+          color: #000;
+        }
+      }
+    }
+
+    //shop-2
+    // .shop2{
+    //   background-color: #D8D8D8;
+    // }
+    
+    //shopDetail
+    
+    .detail{
+      background-color: #EEEEEE;
+      color: #000;
+      h2{
+        color: #000;
+      }
+      .mybtn1{
+        background-color: #000;
+        border: none;
+        color: #fff;
+      }
+    }
+    
+    //card
+    .bg-gif{
+     background-color: #EEEEEE;
+    }
+    .addtocard{
+      background-color: #EEEEEE;
+      .cart-button{
+        position: relative;
+       
+        p{
+          transition: .3s all ease;
+          display: none;
+          position: absolute;
+          color: #000;
+        }
+        &:hover{
+          p{
+            transition: .3s all ease;
+            display: block;
+            top: 10px;
+    
+          }
+        }
+      }
+      .card{
+        transition: .5s all ease;
+        background-color: #EEEEEE;
+        color: #000;
+       // border: 1px solid #262626;
+        height: auto;
+        padding: 20px;
+        &:hover{
+          background-color: #CCCCCC;
+          cursor: pointer;
+        }
+      }
+      h4{
+        color: #000;
+      }
+    }
+    
+    //not-found
+    .not-found{
+      background-color: #000;
+    }
+    
+    //login
+    .login{
+     background-color: #EEEEEE;
+     width: 50%;
+     height: 70vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     .mybtn{
+      width: 100%;
+      background-color: #E30017;
+      color: #000;
+      border-radius: 0px;
+      &:hover{
+        background-color: #C20013;
+      }
+     }
+    }
+    
+    //about
+    .about{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      height: auto;
+     
+      .photoOne{
+        width: 100%;
+        height:auto;
+        position: absolute;
+        z-index: -1;
+      }
+      .photoTwo{
+        position: relative;
+        width: 30%;
+        top: 100px;
+        height: auto;
+      }
+      .photoThird{
+        position: relative;
+        width: 100%;
+      }
+      .text-white{
+        position: relative;
+        z-index: 1;
+        color: #fff;
+      }
+    }
+    .about-second{
+      background-image: url('https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s2_bg.webp');
+      background-repeat: repeat;
+      height: auto;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      iframe{
+        border: 3px solid #42A5D3;
+        // width: 100%;
+      }
+     .photos{
+      overflow: hidden;
+      .common{
+          position: relative;
+        img{
+          width: 100%;
+          transition: .3s all ease;
+          
+         
+          &:hover{
+            cursor: pointer;
+            filter: brightness(160%);
+            transform: scale(1.04);
+          }
+        }
+        .text{
+          position: absolute;
+          bottom: 10px;
+          right: 25px;
+          color: #fff;
+          z-index: +1;
+          text-align: center;
+        }
+      }
+     } 
+    }
+    .about-third{
+     background-image: url('https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s4_bg.webp');
+     width: 100%;
+     height: 100vh;
+     h2{
+      color: #fff;
+      span{
+        color: #33D1FF;
+      }
+    }
+    .line{
+      height: 3px;
+      background-color: #33D1FF;
+      width: 100%;
+    }
+    p{
+      color: #fff;
+      margin-top: 20px;
+      font-size: 20px;
+    }
+    }
+    .upgrade{
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: auto;
+      img{
+        background-attachment: fixed;
+        height: auto;
+      }
+      .text{
+        position: absolute;
+        text-align: start;
+        width: 50%;
+        height: auto;
+        h2{
+          color: #fff;
+          span{
+            color: #33D1FF;
+          }
+        }
+        p{
+          color: #fff;
+          font-size: 20px;
+          font-weight: bolder;
+          height: auto;
+        }
+        
+      }
+    }
+    .last{
+      position: relative;
+      display: flex;
+      justify-content: center;
+      height: auto;
+      img{
+        background-attachment: fixed;
+        height: auto;
+      }
+      .text{
+        position: absolute;
+        text-align: center;
+        width: 60%;
+        height: auto;
+        h2{
+          color: #fff;
+          font-size: 42px;
+          font-weight: bolder;
+          span{
+            color: #33D1FF;
+          }
+        }
+        p{
+          color: #fff;
+          font-size: 20px;
+          font-weight: bolder;
+          margin-top: 16px;
+        }
+        
+      }
+    }
+    //wishList
+    .wishList{
+      background-color: #EEEEEE;
+      .card{
+        background-color: #EEEEEE;
+        transition: .3s all ease;
+      //  border: 1px solid #313131;
+        p,h5{
+            color: #000;
+        }
+        .mybox{
+            background-color: #EEEEEE;
+            border: none;
+          i{
+            color: #000;
+        }  
+        }
+        &:hover{
+            background-color: #CCCCCC;
+            cursor: pointer;
+          }
+        
+      }
+    }
+    //header-modal
+    .modal-content{
+      background-color: #202020;
+      color: #fff;
+      border-radius: 0px;
+      ol{
+       li{
+        a{
+          text-decoration: none;
+          color: #fff;
+          transition: .3s all ease;
+          &:hover{
+            color: #E30017;
+          }
+        }
+        &:hover{
+          background-color: #292929;
+        }
+       }
+      }
+    }
+    //userbutton
+    .mydrop{
+        background-color: #CCCCCC;
+      li{
+        padding: 5px;
+        color: #000;
+        &:hover{
+          background-color: #EEEEEE;
+          cursor: pointer;
+        }
+      }
+    }
+    //support
+    .support{
+      background-image: url('https://rog.asus.com/support/images/imageDist/kv01.jpg');
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 60vh;
+      .text{
+        color: #fff;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 60vh;
+        font-weight: bolder;
+        .input{
+          width: 40%;
+          input{
+            background-color: #292929;
+            border: none;
+            height: 60px;
+          }
+        }
+        button{
+          border: none;
+          background-color: #292929;
+        }
+      }
+    }
+    .select{
+      .card-body{
+        .card-title{
+          transition: .3s all ease;
+          color: #000;
+          &:hover{
+            cursor: pointer;
+            text-decoration: underline;
+            color: #E30017;
+          }
+        }
+      }
+    }
+    .contact{
+      background-color: #2C2C2C;
+      height: 60vh;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      h2,p{
+        color: #fff;
+        &:hover{
+          color: #E30017;
+          cursor: pointer;
+          text-decoration: underline;
+        }
+      }
+      color: #fff;
+      .text{
+        border-right: 1px solid #fff;
+      }
+     
+    }
+    
+    .mybutton{
+      transform: translateY(-35px);
+    }
+}

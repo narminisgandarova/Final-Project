@@ -1,0 +1,490 @@
+.dark .navbar {
+  background: #000;
+  color: #fff;
+}
+.dark .navbar .scrolled {
+  background-color: #f00;
+}
+.dark .navbar .nav-link, .dark .navbar i {
+  color: #fff;
+}
+.dark .navbar .nav-link:hover, .dark .navbar i:hover {
+  color: #E30017;
+}
+.dark .navbar .nav-link :active, .dark .navbar i :active {
+  color: #fff !important;
+}
+.dark .dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  transition: 20s;
+  border-radius: 0;
+  color: #000;
+}
+.dark .account {
+  width: 100%;
+  height: 30px;
+  background-color: #E30017;
+  color: #fff;
+  font-family: roboto, Microsoft JhengHei, sans-serif;
+  cursor: pointer;
+}
+.dark .products {
+  font-family: roboto, Microsoft JhengHei, sans-serif;
+  font-weight: bolder;
+}
+.dark .recent {
+  background-image: url("https://rog.asus.com/dist/img/rog_bg_pattern.jpg");
+  background-position: center;
+  width: 100%;
+  height: auto;
+}
+.dark .recent h2 {
+  color: #fff;
+}
+.dark .recent .card {
+  overflow: hidden;
+}
+.dark .recent .card:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.dark .recent .mytext:hover {
+  cursor: pointer;
+}
+.dark .bg {
+  background-color: #fff;
+}
+.dark .bg .card {
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+.dark .bg .card:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.dark .bg .mytext:hover {
+  cursor: pointer;
+}
+.dark .art {
+  background-image: url("https://dlcdnwebimgs.asus.com/gain/FDFFE426-0A29-40D5-8E26-C838EB26CA8F");
+  background-position: center;
+  width: 100%;
+  height: 50vh;
+  background-position: 80%;
+  background-repeat: no-repeat;
+}
+.dark .footer {
+  background-color: #131313;
+  background-image: url("https://dlcdnwebimgs.asus.com/gain/07B097A3-E9C2-4AFF-9196-3ADE8F5BCEA1");
+  background-position: center;
+  width: 100%;
+  height: 60vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #999999;
+}
+.dark .footer p, .dark .footer i {
+  transition: 0.3s all ease;
+}
+.dark .footer p:hover, .dark .footer i:hover {
+  color: #C20013;
+  cursor: pointer;
+}
+.dark .shop-bg {
+  background-color: #000;
+  font-family: sans-serif;
+}
+.dark .shop-bg h2 {
+  color: #fff;
+}
+.dark .shop-bg .card-com {
+  transition: 0.3s all ease;
+  border: none;
+  padding: 20px;
+}
+.dark .shop-bg .card-com:hover {
+  background-color: #262626;
+  cursor: pointer;
+}
+.dark .shop-bg .card-com:hover .card-com {
+  background-color: #262626;
+  cursor: pointer;
+}
+.dark .shop-bg .card-com {
+  background-color: #000;
+}
+.dark .shop-bg .card-com h5 {
+  color: #fff;
+}
+.dark .shop-bg .card-com p {
+  color: #999999;
+}
+.dark .shop2 {
+  background-color: #000;
+}
+.dark .shop2 .myelement {
+  color: #999999;
+}
+.dark .shop2 .card-com {
+  transition: 0.3s all ease;
+  border: none;
+  padding: 20px;
+}
+.dark .shop2 .card-com:hover {
+  background-color: #262626;
+  cursor: pointer;
+}
+.dark .shop2 .card-com:hover .card-com {
+  background-color: #262626;
+  cursor: pointer;
+}
+.dark .shop2 .card-com {
+  background-color: #000;
+}
+.dark .shop2 .card-com h5 {
+  color: #fff;
+}
+.dark .shop2 .card-com p {
+  color: #999999;
+}
+.dark .shop2 .accordion-item {
+  border-color: #999999;
+  background-color: #000;
+}
+.dark .shop2 .accordion-item .accordion-body {
+  background-color: #000;
+}
+.dark .shop2 .accordion-item .accordion-body .list-group-item {
+  background-color: #000;
+  color: #fff;
+}
+.dark .shop2 .accordion-item .accordion-body .list-group-item .mybtn {
+  color: #fff;
+  background-color: #000;
+  border-color: #999999;
+}
+.dark .shop2 .accordion-button {
+  background-color: #000;
+  color: #fff;
+}
+.dark .detail {
+  background-color: #000;
+  color: #fff;
+}
+.dark .detail h2 {
+  color: #fff;
+}
+.dark .detail .mybtn1 {
+  background-color: #000;
+  border: none;
+  color: #fff;
+}
+.dark .bg-gif {
+  background-color: #000;
+}
+.dark .addtocard {
+  background-color: #000;
+}
+.dark .addtocard .mybtn i {
+  color: #fff;
+}
+.dark .addtocard .cart-button {
+  position: relative;
+}
+.dark .addtocard .cart-button p {
+  transition: 0.3s all ease;
+  display: none;
+  position: absolute;
+  color: #fff;
+}
+.dark .addtocard .cart-button:hover p {
+  transition: 0.3s all ease;
+  display: block;
+  top: 10px;
+}
+.dark .addtocard .card {
+  transition: 0.5s all ease;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #262626;
+  height: auto;
+  padding: 20px;
+}
+.dark .addtocard .card:hover {
+  background-color: #313131;
+  cursor: pointer;
+}
+.dark .addtocard h4 {
+  color: #fff;
+}
+.dark .not-found {
+  background-color: #000;
+}
+.dark .login {
+  background-color: #fff;
+  width: 50%;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dark .login .mybtn {
+  width: 100%;
+  background-color: #E30017;
+  color: #fff;
+  border-radius: 0px;
+}
+.dark .login .mybtn:hover {
+  background-color: #C20013;
+}
+.dark .about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: auto;
+}
+.dark .about .photoOne {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: -1;
+}
+.dark .about .photoTwo {
+  position: relative;
+  width: 30%;
+  top: 100px;
+  height: auto;
+}
+.dark .about .photoThird {
+  position: relative;
+  width: 100%;
+}
+.dark .about .text-white {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+.dark .about-second {
+  background-image: url("https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s2_bg.webp");
+  background-repeat: repeat;
+  height: auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dark .about-second iframe {
+  border: 3px solid #42A5D3;
+}
+.dark .about-second .photos {
+  overflow: hidden;
+}
+.dark .about-second .photos .common {
+  position: relative;
+}
+.dark .about-second .photos .common img {
+  width: 100%;
+  transition: 0.3s all ease;
+}
+.dark .about-second .photos .common img:hover {
+  cursor: pointer;
+  filter: brightness(160%);
+  transform: scale(1.04);
+}
+.dark .about-second .photos .common .text {
+  position: absolute;
+  bottom: 10px;
+  right: 25px;
+  color: #fff;
+  z-index: 1;
+  text-align: center;
+}
+.dark .about-third {
+  background-image: url("https://dlcdnwebimgs.asus.com/files/media/15CD2FE5-6264-4944-8D67-5E3EC233F188/v3/images/large/1x/s4_bg.webp");
+  width: 100%;
+  height: 100vh;
+}
+.dark .about-third h2 {
+  color: #fff;
+}
+.dark .about-third h2 span {
+  color: #33D1FF;
+}
+.dark .about-third .line {
+  height: 3px;
+  background-color: #33D1FF;
+  width: 100%;
+}
+.dark .about-third p {
+  color: #fff;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.dark .upgrade {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.dark .upgrade img {
+  background-attachment: fixed;
+  height: auto;
+}
+.dark .upgrade .text {
+  position: absolute;
+  text-align: start;
+  width: 50%;
+  height: auto;
+}
+.dark .upgrade .text h2 {
+  color: #fff;
+}
+.dark .upgrade .text h2 span {
+  color: #33D1FF;
+}
+.dark .upgrade .text p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+  height: auto;
+}
+.dark .last {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+.dark .last img {
+  background-attachment: fixed;
+  height: auto;
+}
+.dark .last .text {
+  position: absolute;
+  text-align: center;
+  width: 60%;
+  height: auto;
+}
+.dark .last .text h2 {
+  color: #fff;
+  font-size: 42px;
+  font-weight: bolder;
+}
+.dark .last .text h2 span {
+  color: #33D1FF;
+}
+.dark .last .text p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 16px;
+}
+.dark .wishList {
+  background-color: #000;
+}
+.dark .wishList .card {
+  background-color: #000;
+  border: 1px solid #313131;
+}
+.dark .wishList .card p, .dark .wishList .card h5 {
+  color: #fff;
+}
+.dark .wishList .card .mybox {
+  background-color: #000;
+  border: none;
+}
+.dark .wishList .card .mybox i {
+  color: #fff;
+}
+.dark .modal-content {
+  background-color: #202020;
+  color: #fff;
+  border-radius: 0px;
+}
+.dark .modal-content ol li a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s all ease;
+}
+.dark .modal-content ol li a:hover {
+  color: #E30017;
+}
+.dark .modal-content ol li:hover {
+  background-color: #292929;
+}
+.dark .mydrop {
+  background-color: #000;
+}
+.dark .mydrop li {
+  padding: 5px;
+  color: #fff;
+}
+.dark .mydrop li:hover {
+  background-color: #292929;
+  cursor: pointer;
+}
+.dark .support {
+  background-image: url("https://rog.asus.com/support/images/imageDist/kv01.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh;
+}
+.dark .support .text {
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 60vh;
+  font-weight: bolder;
+}
+.dark .support .text .input {
+  width: 40%;
+}
+.dark .support .text .input input {
+  background-color: #292929;
+  border: none;
+  height: 60px;
+}
+.dark .support .text button {
+  border: none;
+  background-color: #292929;
+}
+.dark .select .card-body .card-title {
+  transition: 0.3s all ease;
+  color: #000;
+}
+.dark .select .card-body .card-title:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #E30017;
+}
+.dark .contact {
+  background-color: #2C2C2C;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.dark .contact h2, .dark .contact p {
+  color: #fff;
+}
+.dark .contact h2:hover, .dark .contact p:hover {
+  color: #E30017;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.dark .contact .text {
+  border-right: 1px solid #fff;
+}
+.dark .mybutton {
+  transform: translateY(-35px);
+}/*# sourceMappingURL=style.css.map */
