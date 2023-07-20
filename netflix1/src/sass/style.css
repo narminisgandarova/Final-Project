@@ -1,0 +1,239 @@
+.main {
+  position: relative;
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/d7af077c-af5a-4055-8f9a-740a43588583/34b8d94b-56f1-4a10-8f9f-76290636e735/AZ-en-20230717-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100%;
+}
+.main::before {
+  content: "";
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.main input {
+  width: 100%;
+}
+.main input::-moz-placeholder {
+  color: #706F6F;
+}
+.main input::placeholder {
+  color: #706F6F;
+}
+.main .text {
+  filter: brightness(100%);
+}
+.main .text input {
+  box-shadow: none;
+  width: 80%;
+}
+.main .text h3 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+.main .text p {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.main .text .btn {
+  height: 50px;
+  border-radius: 0%;
+  width: 35%;
+  background-color: #E50914;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.mybtn {
+  background-color: #E50914;
+  font-weight: bolder;
+}
+
+.saperated {
+  width: 100%;
+  height: 10px;
+  background-color: #232323;
+}
+
+.enjoy {
+  width: 100%;
+  height: 60vh;
+  background-color: #000000;
+  height: auto;
+}
+.enjoy img {
+  width: 100%;
+}
+.enjoy .text {
+  height: 60vh;
+  text-align: start;
+  color: #fff;
+}
+.enjoy .text h3 {
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: left;
+}
+.enjoy .text p {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.download {
+  width: 100%;
+  height: 60vh;
+  background-color: #000000;
+  height: auto;
+}
+.download .left-down {
+  position: relative;
+}
+.download .box {
+  display: flex;
+  position: absolute;
+  width: 50%;
+  height: 120px;
+  background-color: #000000;
+  border: 2px solid #5A5A5A;
+  border-radius: 10%;
+  bottom: 20px;
+  right: 160px;
+}
+.download .text1 {
+  height: 120px;
+  width: 80%;
+  margin-top: 10px;
+}
+.download .text1 p {
+  color: #0019B6;
+}
+.download img {
+  width: 100%;
+}
+.download .text {
+  height: 60vh;
+  text-align: start;
+  color: #fff;
+}
+.download .text h3 {
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: left;
+}
+.download .text p {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.watch {
+  width: 100%;
+  height: 60vh;
+  background-color: #000000;
+  height: auto;
+}
+.watch img {
+  width: 100%;
+}
+.watch .text {
+  height: 60vh;
+  text-align: start;
+  color: #fff;
+}
+.watch .text h3 {
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: left;
+}
+.watch .text p {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.create {
+  width: 100%;
+  height: 60vh;
+  background-color: #000000;
+  height: auto;
+}
+.create img {
+  width: 100%;
+}
+.create .text {
+  height: 60vh;
+  text-align: start;
+  color: #fff;
+}
+.create .text h3 {
+  font-size: 3rem;
+  font-weight: 900;
+  text-align: left;
+}
+.create .text p {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.question {
+  width: 100%;
+  height: auto;
+  background-color: #000000;
+}
+.question h3 {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 900;
+}
+.question .accordion .accordion-item {
+  background-color: #2D2D2D;
+  color: #fff;
+  border: none;
+}
+.question .accordion .accordion-item .accordion-button {
+  background-color: #2D2D2D;
+  color: #fff;
+  border: none;
+  font-size: 24px;
+  font-family: sans-serif;
+  letter-spacing: 0;
+  height: 80px;
+  border-radius: 0;
+}
+.question .accordion .accordion-item .accordion-body {
+  font-size: 24px;
+  font-family: sans-serif;
+  letter-spacing: 0;
+}
+.question .mytext {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.875rem;
+  margin-top: 22px;
+}
+.question .btn {
+  height: 50px;
+  border-radius: 0%;
+  width: 35%;
+  background-color: #E50914;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.question input::-moz-placeholder {
+  color: #706F6F;
+}
+.question input::placeholder {
+  color: #706F6F;
+}
+
+.footer {
+  width: 100%;
+  height: auto;
+  background-color: #000000;
+  color: #ADB3AD;
+}
+.footer ul li {
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
